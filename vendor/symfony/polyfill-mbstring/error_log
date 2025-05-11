@@ -1,0 +1,1 @@
+[28-Feb-2022 12:29:13 America/New_York] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/freebovd/nehal.rafiqelectronicsbd.com/vendor/symfony/polyfill-mbstring/Mbstring.php on line 13

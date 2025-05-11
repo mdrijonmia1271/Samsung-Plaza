@@ -1,0 +1,27 @@
+[
+    {"month": [
+        {"english":"January", "bangla":"জানুয়ারি", "days":31, "position":1},
+        {"english":"February", "bangla":"ফেব্রুয়ারি", "days":28, "position":2},
+        {"english":"March", "bangla":"মার্চ", "days":31, "position":3},
+        {"english":"April", "bangla":"এপ্রিল", "days":30, "position":4},
+        {"english":"May", "bangla":"মে", "days":31, "position":5},
+        {"english":"June", "bangla":"জুন", "days":30, "position":6},
+        {"english":"July", "bangla":"জুলাই", "days":31, "position":7},
+        {"english":"August", "bangla":"আগস্ট", "days":30, "position":8},
+        {"english":"September", "bangla":"সেপ্টেম্বর", "days":31, "position":9},
+        {"english":"October", "bangla":"অক্টোবর", "days":30, "position":10 },
+        {"english":"November", "bangla":"নভেম্বর", "days":31, "position":11},
+        {"english":"December", "bangla":"ডিসেম্বর", "days":30, "position":12}
+        ]
+    },
+    {"days": [
+        {"english":"Sunday","bangla":"রবিবার","position":1},
+        {"english":"Monday","bangla":"সোমবার","position":2},
+        {"english":"Tuesday","bangla":"মঙ্গলবার","position":3},
+        {"english":"Wednesday","bangla":"বুধবার","position":4},
+        {"english":"Thursday","bangla":"বৃহস্পতিবার","position":5},
+        {"english":"Friday","bangla":"শুক্রবার","position":6},
+        {"english":"Saturday","bangla":"শনিবার","position":7}
+        ]
+    }
+]
